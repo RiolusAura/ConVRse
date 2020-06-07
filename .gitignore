@@ -491,3 +491,13 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/unity,csharp,windows,visualstudio
+Con Floor/Assets/Con1/LightingData.asset
+Con Floor/Assets/Con1/LightingData.asset.meta
+Con Floor/Assets/Con1/Lightmap-0_comp_dir.png
+Con Floor/Assets/Con1/Lightmap-0_comp_dir.png.meta
+Con Floor/Assets/Con1/Lightmap-0_comp_light.exr
+Con Floor/Assets/Con1/Lightmap-0_comp_light.exr.meta
+Con Floor/Assets/Con1/Lightmap-0_comp_shadowmask.png
+Con Floor/Assets/Con1/Lightmap-0_comp_shadowmask.png.meta
+Con Floor/Assets/Con1/ReflectionProbe-0.exr
+Con Floor/Assets/Con1/ReflectionProbe-0.exr.meta
