@@ -19,6 +19,7 @@ MonoBehaviour:
   - pbExtrudeAsGroup
   - pbManifoldEdgeExtrusion
   - pbUVMaterialPreview
+  - pbGenerateUV2PerObject
   m_Int_keys:
   - pbDefaultEditLevel
   - pb_GIWorkflowMode
@@ -34,7 +35,7 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 000001010101
+  m_Bool_values: 00000101010101
   m_Int_values: 000000000100000002000000020000000000000000000000
   m_Float_values:
   - 0.5

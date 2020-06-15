@@ -63,6 +63,8 @@ d970dc2dc29a1e94c80b1f3f3e8c32ee:=.poiyomi/Toon/Advanced/Transparent
 
 
 
+
+
 :=Legacy Shaders/Diffuse
 34e4ea853c529474ca2ecffb0525c5da:=.poiyomi/Toon/Advanced/Cutout
 e8de168674489db4aaa48d6789fa3e49:=Standard
@@ -126,3 +128,7 @@ c0aa7ac64f694d9429da4dc36c64335f:=Standard
 62c0921cde0e00c4fb244172d75888d3:=Standard
 1f98ad07fb5e6c442a6388066963f2f6:=Standard
 8bbad0edabc10114cbc4cdb65b9845c7:=.poiyomi/Toon/Advanced/Cutout
+f390b272d198a0b41b484903e59de81e:=Standard
+1f26d30651b630246b493ff03c599dd4:=Standard
+38d63af57e566d4459de1d06c6c05032:=Standard
+2a64bce44a3ba2d4c8f1ea25b5a833e2:=Standard
